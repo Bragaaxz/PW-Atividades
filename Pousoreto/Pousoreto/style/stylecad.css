@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: rgba(34, 128, 117, 1)
+  }
+  
+  .caixa {
+    background-color: #EEEEEE;
+    padding: 30px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 50px auto;
+  }
+  
+  button {
+    background-color: #0078D7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }

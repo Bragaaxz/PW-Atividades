@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(181, 212, 239) !important;
+}
+.card {
+    width: 500px !important;
+    height: 600px;
+    margin-left: 30%;
+}

@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(181, 212, 239) !important;
+}
+img {
+    height: 180px;
+    width: 790px;
+}
+button {
+    background-color: blue;
+    color: beige !important;
+}
+small  {
+    color: whitesmoke !important;
+}
+a {
+    color: white !important;
+}
