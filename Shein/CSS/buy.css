@@ -1,0 +1,24 @@
+.compra{
+    display: flex;
+    flex-direction: column;
+    margin-top: -300px;
+    margin-left: 600px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+.imagens{
+    margin-left: 300px;
+}
+.mainimg{
+    border: 5px solid black
+    
+}
+.imglarge{
+    display: none;
+    margin-top: -600px;
+    margin-left: 600px;
+}

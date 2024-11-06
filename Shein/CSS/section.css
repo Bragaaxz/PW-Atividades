@@ -1,0 +1,27 @@
+section{
+    margin-top: -45.4%;
+    margin-left: 20%;
+    text-align: center;
+    width: 1000px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.colunas{   
+    display: flex;
+    justify-content:space-between;
+    
+}
+.produtos{
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    background-color: rgb(134, 134, 134);
+    border: 1px solid black;
+    color: white;
+}
+.produtos:hover{
+    transition: 500ms;
+    width: 250px;
+    height: 320px;
+}
